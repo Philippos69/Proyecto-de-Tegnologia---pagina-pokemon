@@ -1,0 +1,88 @@
+body {
+    background-color: white;
+    font-family: "Roboto";
+}
+
+#titulo_1 {
+    background-color: whitesmoke;
+    height: 10vh;
+    margin: 5px;
+    color: black;
+    text-align: center;
+    font-size: 10vh;
+    font-family: "roboto",
+}
+
+#botones {
+    background-color: whitesmoke;
+    height: 10vh;
+    margin: 5px;
+    text-align: center;
+    font-size: 100%;
+    color: black;
+}
+
+button {
+    background-color: whitesmoke;
+    height: 10vh;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 100%;
+    color: black;
+    cursor: pointer;
+}
+
+#contenedor_descripcion {
+    display: flex;
+}
+
+
+#descripcion {
+    background-color: whitesmoke;
+    height: 50vh;
+    margin: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: black;
+    width: 70%;
+}
+
+#imagen_descripcion{
+    background-color: whitesmoke;
+    height: 50vh;
+    margin: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: black;
+    width: 30%;
+}
+
+#detalles_del_pokemon { 
+    background-color: whitesmoke;
+    height: 50vh;
+    margin: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: black;
+    width:100%;
+}
+
+#pie_de_pagina {
+    background-color: whitesmoke;
+    margin: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: black;
+    width:100%;
+}
+
+.especial {
+    background-color: whitesmoke;
+    margin: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+color: black;
+    width:100%;
+    height: 70vh;
+}
+

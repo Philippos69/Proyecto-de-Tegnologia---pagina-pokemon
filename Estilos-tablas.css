@@ -1,0 +1,67 @@
+body {
+    background-color: white;
+    font-family: "Roboto";
+}
+#titulo1 { 
+    text-align: center;
+    vertical-align: middle;
+    color: black;
+}
+
+#botones {
+	color: white;
+}
+#encabezado {
+    background-color: whitesmoke;
+    height: 10vh;
+    margin: 5px;
+    text-align: center;
+    align-items: center;
+    font-size: 150%;
+}
+
+#Pagina_principal {
+    background-color: whitesmoke;
+    color: white;
+    margin: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+#pagina {
+	cursor: pointer;
+	background-color: whitesmoke;
+	padding: 15px 32px;
+	color; white;
+	font-size; 30px;
+}
+#Tabla {
+    background-color: whitesmoke;
+    margin: 5px;
+    width: 100%;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+#squirtle {
+  height: 10px;
+}
+
+#botones {
+    background-color: whitesmoke;
+    height: 10vh;
+    margin: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 100%;
+    color: black;
+}
+
+#boton {
+	cursor: pointer;
+	padding: 12px 24px;
+}

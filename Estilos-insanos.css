@@ -1,0 +1,41 @@
+body {
+    background-color: white;
+    font-family: "Roboto";
+}
+#header_insano {
+    background-color: whitesmoke;
+    height: 40vh;
+    margin: 5px;
+    color: black;
+}
+
+#botones {
+    background-color: whitesmoke;
+    height: 10vh;
+    margin: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 100%;
+    color: black;
+}
+
+#boton_1 {
+	padding: 15px 32px
+}
+
+#sección_1 {
+    background-color: whitesmoke;
+    height: 50vh;
+    margin: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: black;
+}
+
+#Pie_de_pagina {
+    background-color: whitesmoke;
+    margin: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: black;
+}
